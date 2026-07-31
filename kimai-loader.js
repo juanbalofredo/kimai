@@ -1,9 +1,4 @@
-// Cargador de Horas — Kimai
-// Hecho por Juan Lofredo
-//
-// Cómo usarlo: entrá a https://kimai.ayi.group/es/timesheet/, abrí la consola
-// del navegador (F12), pegá este script completo y presioná Enter.
-// Instrucciones detalladas en el README.md de este mismo repositorio.
+
 
 (() => {
   document.getElementById('kimai-loader')?.remove();
